@@ -7,3 +7,5 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.206.91:51615?encryption=none&
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#https%3A%2F%2Ft.me%2FV2ry_Proxy
 vless://Telegram-%40Green_WPN-%40Vijra_dev@ping.amirhossein.info:8443?type=ws&path=%2FTelegram%40Green_WPN%40Vijra_dev%2F%3Fed%3D2560&host=ping.amirhossein.info&security=none#%F0%9F%9B%B0%20Telegram%20%7C%20%40Green_WPN%20%7C%20%40Vijra_dev
 vless://Telegram-%40Green_WPN-%40Vijra_dev@ping.amirhossein.info:8443?type=ws&path=%2FTelegram%40Green_WPN%40Vijra_dev%2F%3Fed%3D2560&host=ping.amirhossein.info&security=none#%F0%9F%9B%B0%20Telegram%20%7C%20%40Green_WPN%20%7C%20%40Vijra_dev
+vless://05ecb41e-90ba-41f4-919c-dbce1fa1a261@dgrns1.vertalist.ir:7005?security=reality&encryption=none&pbk=BEgwKAxJOC_U3JNvu1psNSkcbSUL9p8g5nMEOtHY4Sc&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=c3537867431956f6#VPN-vless
+
