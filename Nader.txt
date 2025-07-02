@@ -51,3 +51,4 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.230:51615?security=none&e
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.145.219:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp# https://t.me/ConfigX2ray
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp# https://t.me/ConfigX2ray
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.56:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp# https://t.me/ConfigX2ray
+vless://Telegram%40FNET00%40Am20094@188.121.126.69:8081?type=tcp&security=none#Tel%3A%40Mr_Amirr_00-Telegram%20%7C%20%40FNET00
