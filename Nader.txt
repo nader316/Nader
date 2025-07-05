@@ -1,4 +1,4 @@
-trojan://Aimer@135.84.74.254:2083/?type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=epmk.ambercc.filegear-sg.me&allowInsecure=1#Telegram+%7C+Payam_Nsi
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.142.221.255:3229?security=none&type=tcp#[🇺🇸]t.me/mobamoz_channeltrojan://Aimer@135.84.74.254:2083/?type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=epmk.ambercc.filegear-sg.me&allowInsecure=1#Telegram+%7C+Payam_Nsi
 hy2://J4MF5gYLAejSsZA1b0T3djeNGoI@44.243.233.105:16523/?insecure=1&sni=bing.com#Telegram+%7C+Payam_Nsi
 vless://c5b69a7f-8e71-4425-8613-0f3c2a97d6d7@185.133.125.10:19161/?encryption=none&flow=&host=soft98.ir&type=tcp&headerType=http#Telegram+%7C+Payam_Nsi
 hy2://e3975a05-b89e-11ec-a50d-f23c91cfbbc9@d5d8af9a-svlb40-sxf56z-1f596.hy2.gotochinatown.net:8443/?sni=d5d8af9a-svlb40-sxf56z-1f596.hy2.gotochinatown.net#Telegram+%7C+Payam_Nsi
